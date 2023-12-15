@@ -21,7 +21,10 @@ class OceanGPT():
 
         elif answer == "who is the biggest bird":
             print("hassan sussy mohamud know as hsm")
-
+        elif answer == "what is the Torah":
+            print("The Torah is the Holy Religious Text Of Judaism")
+        elif answer == "from the river to the sea":
+            print("PALESTINE WILL BE FREE")
         elif answer == 'what can you':
             print('i am programmed to do image detection an clustering and classifaction')
             pass
