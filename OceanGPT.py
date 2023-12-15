@@ -9,7 +9,12 @@ class OceanGPT():
 
         elif answer == "who made apple":
             print("apple one of the most famous tech companies started by steve jobs who died in 2011 by pancreatic cancer but fun fact apple logo has a bite in it so it doesnt look like a cherry")
-
+        elif answer == "what is zionism":
+            print("From 1897 to 1948, the primary goal of the Zionist Movement was to establish the basis for a Jewish homeland in Palestine.")
+        elif answer == "what is cocomelon":
+            print("The Work of Satan")
+        elif answer == "why":
+            print("YOUR MOM")
         elif answer == "who is the goat":
             print("ronaldo")
 
