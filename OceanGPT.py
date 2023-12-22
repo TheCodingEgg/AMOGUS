@@ -20,6 +20,8 @@ class OceanGPT():
 
         elif answer == "who is the best youtuber":
             print("enzo the rainbow gamer, jj and mikey")
+        elif answer == "who is my favourite sigma rizzler":
+            print("Hassan the man who is FATHER RIZZMAS")
         elif answer == "sticking out your gyatt for the rizzler":
             print("Your so Skibidi, Your So Fanum Tax")
         elif answer == "who is the 2nd biggest bird":
