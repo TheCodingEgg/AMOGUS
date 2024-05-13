@@ -2,6 +2,7 @@
 class OceanGPT():
     def __init__(self):
         print("Hi! Welcome to OceanGPT, the only AI created by a nine-year-old.")
+        print("PS:I AM TEN NOW :)")
         answer = input("What would you like to do today? ")
 
         if answer == "who made android":
